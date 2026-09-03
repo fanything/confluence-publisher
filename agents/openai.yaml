@@ -1,0 +1,4 @@
+interface:
+  display_name: "Confluence Publisher"
+  short_description: "Read and publish Confluence documentation"
+  default_prompt: "Use $confluence-publisher to read or publish documents in a named Confluence space and page hierarchy."
